@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "slidSolution.Main",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "slid6Last",
+            "request": "launch",
+            "mainClass": "slidSolution.slid6Last",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "Operation2",
             "request": "launch",
             "mainClass": "Recursion.Operation2",
