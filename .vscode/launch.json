@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "plm2",
+            "request": "launch",
+            "mainClass": "practice.plm2",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "plm1",
             "request": "launch",
             "mainClass": "practice.plm1",
