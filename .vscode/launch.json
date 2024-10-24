@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "plm1",
+            "request": "launch",
+            "mainClass": "practice.plm1",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "slidSolution.Main",
