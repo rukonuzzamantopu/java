@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CgpaCalculator",
+            "request": "launch",
+            "mainClass": "CgpaCalculator",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "plm4",
             "request": "launch",
             "mainClass": "practice.plm4",
