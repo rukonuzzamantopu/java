@@ -8,9 +8,12 @@ public class Test {
         t1.setName("topu");
         t1.setQulification("Hsc");
         t1.setAge(23);
-        System.out .println("Name is:"+t1.getName());
-        System.out .println("Age is :"+t1.getAge());
-        System.out .println("Qulification is:"+t1.getQulification());
+        t1.displayinformation();
+        Teachear t2=new Teachear();
+        t2.setName("Trina");
+        t2.setAge(22);
+        t2.setQulification("BSE");
+        t2.displayinformation();
         
         
     }
