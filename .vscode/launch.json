@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "com.mycompany.classobjeact.Test",
+            "projectName": "classobjeact"
+        },
+        {
+            "type": "java",
+            "name": "FibonacciNumber",
+            "request": "launch",
+            "mainClass": "FibonacciNumber",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
+            "name": "primeNumber",
+            "request": "launch",
+            "mainClass": "primeNumber",
+            "projectName": "java_3e0290da"
+        },
+        {
+            "type": "java",
             "name": "CgpaCalculator",
             "request": "launch",
             "mainClass": "CgpaCalculator",
