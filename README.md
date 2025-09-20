@@ -18,9 +18,10 @@ It contains structured exercises, lab problems, and worked examples to help lear
 
 ---
  
-## Class & Object Example
+## 📝 Sample Programs
 
-java FileName
+### 1. Class & Object Example
+```java
 class Person {
     String name;
     int age;
@@ -38,7 +39,9 @@ public class Main {
         p1.introduce();
     }
 }
-## Inheritance Example
+
+
+### Inheritance Example
 class Animal {
     void sound() {
         System.out.println("Animals make sounds");
@@ -76,25 +79,25 @@ public class SimpleGUI {
 
 ## 🎯 Purpose
 
-This repository is designed for:
+1.This repository is designed for:
 
-Students preparing for Java lab exams.
+2.Students preparing for Java lab exams.
 
-Beginners practicing object-oriented concepts through real examples.
+3.Beginners practicing object-oriented concepts through real examples.
 
-Learners who want to bridge basic syntax with advanced OOP design.
+4.Learners who want to bridge basic syntax with advanced OOP design.
 
-By working through these exercises, you will gain a strong foundation in both Java fundamentals and core OOP principles.
+5.By working through these exercises, you will gain a strong foundation in both Java fundamentals and core OOP principles.
 
 ## 🤝 Contribution
 
-You are welcome to contribute by:
+1.You are welcome to contribute by:
 
-Forking the repository.
+2.Forking the repository.
 
-Creating a new branch for your changes.
+3.Creating a new branch for your changes.
 
-Submitting a pull request.
+4.Submitting a pull request.
 
 Contributions can include bug fixes, new examples, or improved explanations.
 ## 🚀 Getting Started  
