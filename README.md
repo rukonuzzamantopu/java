@@ -18,64 +18,7 @@ It contains structured exercises, lab problems, and worked examples to help lear
 
 ---
  
-## 📝 Sample Programs
 
-### 1. Class & Object Example
-```java
-class Person {
-    String name;
-    int age;
-
-    void introduce() {
-        System.out.println("Hi, my name is " + name + " and I am " + age + " years old.");
-    }
-}
-
-public class Main {
-    public static void main(String[] args) {
-        Person p1 = new Person();
-        p1.name = "Alice";
-        p1.age = 22;
-        p1.introduce();
-    }
-}
-
-
-### Inheritance Example
-class Animal {
-    void sound() {
-        System.out.println("Animals make sounds");
-    }
-}
-
-class Dog extends Animal {
-    @Override
-    void sound() {
-        System.out.println("Dog barks");
-    }
-}
-
-public class Main {
-    public static void main(String[] args) {
-        Animal a = new Dog(); // Polymorphism in action
-        a.sound();
-    }
-}
-
-## GUI Example (Swing)
-import javax.swing.*;
-
-public class SimpleGUI {
-    public static void main(String[] args) {
-        JFrame frame = new JFrame("Hello GUI");
-        JButton button = new JButton("Click Me");
-
-        frame.add(button);
-        frame.setSize(300, 200);
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setVisible(true);
-    }
-}
 
 ## 🎯 Purpose
 
