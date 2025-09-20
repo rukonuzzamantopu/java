@@ -5,6 +5,11 @@ It contains structured exercises, lab problems, and worked examples to help lear
 
 ---
 
+## 📑 Lab Reports  
+All **lab reports** related to Data Structures are included, with explanations and problem-solving codes.  
+
+---
+
 ## 📘 What You'll Learn
 - **Classes & Objects:** How to design and create reusable classes and instantiate objects.  
 - **Encapsulation:** Hiding data with access modifiers and getter/setter methods.  
@@ -32,6 +37,8 @@ It contains structured exercises, lab problems, and worked examples to help lear
 
 5.By working through these exercises, you will gain a strong foundation in both Java fundamentals and core OOP principles.
 
+---
+
 ## 🤝 Contribution
 
 1.You are welcome to contribute by:
@@ -43,6 +50,8 @@ It contains structured exercises, lab problems, and worked examples to help lear
 4.Submitting a pull request.
 
 Contributions can include bug fixes, new examples, or improved explanations.
+
+---
 ## 🚀 Getting Started  
 
 ### 1. Clone the repository  
