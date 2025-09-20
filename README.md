@@ -6,7 +6,7 @@ It contains structured exercises, lab problems, and worked examples to help lear
 ---
 
 ## 📑 Lab Reports  
-All **lab reports** related to Data Structures are included, with explanations and problem-solving codes.  
+All **lab reports**  are included, with explanations and problem-solving codes.  
 
 ---
 
