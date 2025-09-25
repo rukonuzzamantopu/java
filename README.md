@@ -52,6 +52,8 @@ All **lab reports**  are included, with explanations and problem-solving codes.
 Contributions can include bug fixes, new examples, or improved explanations.
 
 ---
+
+---
 ## 🚀 Getting Started  
 
 ### 1. Clone the repository  
